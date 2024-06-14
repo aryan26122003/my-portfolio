@@ -1,0 +1,28 @@
+#nav-co-f{
+    // color: white;
+    color: black;
+    // position: sticky;
+    // top: 0;
+    // box-shadow: ;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
+    background-color:white;
+    // background-color: black;
+}
+
+#nav-co-f a{
+    text-decoration: none;
+    font-weight: 600;
+    color: black;
+}
+#nav-co-f h1{
+    font-size: 22px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+#nav-co-f h1 span{
+    display: inline-block;
+    padding: 2px 5px;
+
+    background-color: rgb(232, 232, 232);
+    // color: rgb(38, 38, 198);
+}

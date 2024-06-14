@@ -1,0 +1,52 @@
+// section 1
+#ad-left-wrap{
+    height: 600px;
+    width: 100%;
+    text-indent: 20%;
+    // text-align: center;
+    border-radius: 5px;
+    box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+    padding: 1px 0;
+    // background-color: gray;
+    
+}
+#ad-left-wrap ul li{
+    line-height: 50px;
+    font-weight: 600;
+    margin: 5px 0;
+    border: none;
+    // box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+    // border-radius: 5px;
+    // background-color: aquamarine;
+}
+#ad-left-wrap ul li i{
+    font-size: 20px;
+}
+#ad-left-wrap ul li span{
+    display: inline-block;
+    text-indent: 25px;
+}
+#ad-left-wrap ul li a{
+    color:rgb(94, 25, 255);
+}
+#ad-left-wrap ul li:hover{
+    // color: aliceblue;
+    background-color: skyblue;
+}
+
+// section 2
+
+#ad-right-wrap{
+    height: 600px;
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+
+}
+
+// contant
+#contact #data-table{
+    height: 500px;
+    overflow: scroll;
+
+}

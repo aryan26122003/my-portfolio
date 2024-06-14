@@ -1,0 +1,30 @@
+#analysis-c-f{
+    padding: 150px 0;
+}
+#analysis-c-f #analysis-item{
+    height: auto;
+    width: 100%;
+}
+#analysis-c-f #analysis-item img{
+    height: auto;
+    width: 100%;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+#analysis-c-f #analysis-item h3{
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+#analysis-c-f #analysis-item p{
+    // padding-bottom: 60px;
+}
+#analysis-c-f #analysis-item button{
+    font-size: 14px;  
+    font-weight: 500;
+    border-radius: 50px;
+    padding: 6px 30px;
+    text-transform: uppercase;
+}

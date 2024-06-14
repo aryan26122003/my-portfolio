@@ -1,0 +1,36 @@
+#research-c-f{
+    padding: 60px 0;
+}
+#research-c-f #research-container h3{
+    font-size: 40px;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+#research-c-f #research-container #research-item{
+    height: auto;
+    width: 100%;
+}
+#research-c-f #research-container #research-item img{
+    height: 500px;
+    width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+
+}
+#research-c-f #research-container #research-item p{
+   padding-top: 40px;
+   font-size: 16px;
+}
+#research-c-f #research-container #research-item button{
+    font-size: 14px;  
+    font-weight: 500;
+    border-radius: 50px;
+    padding: 8px 30px;
+    text-transform: capitalize;
+    // color: white;
+}
+
+@media (max-width:720px) and (min-width:200px) {
+    #research-c-f #research-container #research-item img{
+        height: 250px;
+    }   
+}

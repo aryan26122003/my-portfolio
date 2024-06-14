@@ -1,0 +1,21 @@
+#banner-c-f{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-image: url('https://images.pexels.com/photos/5240547/pexels-photo-5240547.jpeg?auto=compress&cs=tinysrgb&w=600');
+    /* background-image: url('https://images.pexels.com/photos/901236/pexels-photo-901236.jpeg?auto=compress&cs=tinysrgb&w=600'); */
+}
+#banner-c-f #banner-wrap{
+    padding: 250px 0;
+    background: rgb(253,253,253);
+    background: linear-gradient(90deg, rgba(253,253,253,0.9557072829131653) 0%, rgba(255,255,255,1) 41%, rgba(242,242,242,0) 100%);   
+}
+#banner-c-f #banner-wrap #banner-item{
+    padding: 50px;
+    background-color: aqua;
+}
+#banner-c-f #banner-wrap #banner-item h2{
+   font-size: 60px;
+}
+#banner-c-f #banner-wrap #banner-item p{
+   font-size:18px;
+}
